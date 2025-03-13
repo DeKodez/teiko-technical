@@ -12,10 +12,18 @@ python -m venv env
 source env/bin/activate
 ```
 
+Install python packages.
 ```
 pip install -r requirements.txt
 ```
 
-# To Run
+## To Run
 
+Open analysis.ipynb and run all cells. 
+
+## Answers
+For Q1:
+You can see my reasoning and answers to the questions written in the markdown blocks throughout the analysis.ipynb notebook.
+
+For Q2:
 TODO
