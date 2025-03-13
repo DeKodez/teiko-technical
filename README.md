@@ -26,4 +26,4 @@ For Q1:
 You can see my reasoning and answers to the questions written in the markdown blocks throughout the analysis.ipynb notebook.
 
 For Q2:
-TODO
+All answers are in the database.md file.
