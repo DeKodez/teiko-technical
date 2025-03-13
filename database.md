@@ -137,3 +137,6 @@ FROM melanoma_pbmc_baseline mp
 GROUP BY mp.sex
 ORDER BY sample_count DESC;
 ```
+
+## Extra
+By the way, I also considered using spark to do these analyses, but it'd only really be useful for very large amounts of data. In this case, we can use the MapReduce algorithm implemented by spark to parallelise the queries above for very large amounts of data.
