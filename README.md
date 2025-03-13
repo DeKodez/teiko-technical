@@ -22,8 +22,8 @@ pip install -r requirements.txt
 Open analysis.ipynb and run all cells. 
 
 ## Answers
-For Q1:
+For Python section:
 You can see my reasoning and answers to the questions written in the markdown blocks throughout the analysis.ipynb notebook.
 
-For Q2:
+For Database section:
 All answers are in the database.md file.
